@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nivvved
 - 👀 I’m interested in Data science and Technology
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently working at Accenture as a Quality Engineering Assosiate
 - 💞️ I’m looking to collaborate on devoloping business applications
 - 📫 How to reach me https://www.instagram.com/nivvvved/
 
